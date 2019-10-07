@@ -1,2 +1,2 @@
-# Tutorial-Qiskit-Espa-ol
+# Tutorial-Qiskit
 Tutorial de los elementos basicos de qiskit en español
